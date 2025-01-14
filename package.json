@@ -1,0 +1,15 @@
+{
+  "name": "new_scrapper",
+  "description": "Baloto scrapper to check results",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": ["scrapper", "baloto"],
+  "author": "jdperea",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.49.1"
+  }
+}
