@@ -50,7 +50,7 @@ Los resultados se guardan en un archivo JSON con la siguiente estructura:
 1. Clona el repositorio:
 
     ``` bash
-    git clone
+    git clone https://github.com/jdperea/scrapper_baloto
     ```
 
 2. Instala las dependencias:
