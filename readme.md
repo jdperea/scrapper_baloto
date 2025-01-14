@@ -91,7 +91,7 @@ El scraper obtiene:
 
 ## ⚠️ Nota legal
 
-Este scraper está diseñado para fines educativos y de análisis de datos. Asegúrate de cumplir con los términos de servicio del sitio web de Baloto al utilizar esta herramienta.
+Este scraper está diseñado para fines educativos y de análisis de datos.
 
 ## 🤝 Contribuciones
 
